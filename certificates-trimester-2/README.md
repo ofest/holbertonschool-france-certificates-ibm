@@ -14,3 +14,4 @@ Trimester 2 - Certificate: Project Management Fundamentals
 We chose this course to better prepare you for your portfolio projects in trimester 3.
 To discover the different methods of project of project management
 To understand the role of a project manager, which will help you better understand your role as a developer when you join a technical team later on for an internship or a job.
+.
